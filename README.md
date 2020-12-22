@@ -15,6 +15,8 @@ git clone https://github.com/FluffySnowman/youtube-mp3-downloader.git
 Use your package manager to download tkinter for python. Heres an example for apt:-
 
 ```bash
+sudo apt-get update
+
 sudo apt-get install python3-tk
 ```
 
