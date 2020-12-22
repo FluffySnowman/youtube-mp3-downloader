@@ -35,6 +35,8 @@ After this, look at your terminal- the output of the download process will be sh
 
 After the download is done, feel free to check out the current folder for the mp3 of the video that you just downloaded.
 
+You can do this process multiple times after the download has completed without restarting the application.
+
 
 To run the cli version run this command in your terminal inside the directory:-
 
@@ -42,4 +44,7 @@ To run the cli version run this command in your terminal inside the directory:-
 python3 Download-cli.py
 ```
 
-You will be prompted to enter the link of the video you want to download. 
+You will be prompted to enter the link of the video you want to download. Enter the link and press enter.
+The video will then download and convert to mp3. 
+
+Thats it. Have fun!
