@@ -19,8 +19,9 @@ sudo apt-get update
 
 sudo apt-get install python3-tk
 ```
+<hr>
 
-#### How to use / Executing
+## How to use / Executing
 
 You will find two python files in the cloned directory. One is for gui and one is for cli downloading.
 
@@ -31,6 +32,7 @@ python3 Download.py
 ```
 
 After this there will be an input box. Enter the link in the box and click on the 'Download' button.
+
 After this, look at your terminal- the output of the download process will be shown in the terminal where you have run the Download.py file.
 
 After the download is done, feel free to check out the current folder for the mp3 of the video that you just downloaded.
