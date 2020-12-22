@@ -2,6 +2,15 @@
 
 Use this tool to efficiently download any public content from youtube as a mp3 file
 
+### Requirements
+
+You must have:-
+
+- A stable internet connection
+- Python 3
+- FFmpeg
+- tkinter (for the gui option)
+
 ### Installation
 
 ```bash
