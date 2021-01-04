@@ -36,8 +36,6 @@ def doLink():
         ydl.download([video_info['webpage_url']])
 
 
-
-
 button1 = Button(window, text = "Download", command = doLink)
 button1.place(x = 150,y = 70)
 
